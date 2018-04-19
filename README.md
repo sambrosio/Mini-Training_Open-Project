@@ -12,6 +12,18 @@ __Preparation:__
 
 ### Group work (7 Minutes)
 
+#### Group 1: Susana
+How to start a new repository
+
+
+#### Group 2: Stefan
+What is an issue?
+
+
+#### Group 3: Heidi
+What is a pull request?
+
+
 ### Plenary / Wrapup (6 Minutes)
 
 
