@@ -30,7 +30,7 @@ Warn 1 minute before end that time will be over soon!h
 #### Group 1: Stefan
 How to give feedback to the gitbook? -> Create an issu
 
-- Stefan shows some existing 
+- Stefan shows some existing issues and how to create an own.
 
 
 #### Group 2: Heidi
