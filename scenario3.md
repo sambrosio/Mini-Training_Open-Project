@@ -6,3 +6,10 @@ Possible things to discuss:
 - What do you think is a repository?
 - Why do you think a repository is useful/important?
 
+
+To be aware:
+- Documentation (README.md): mission statement, good name, Description, Useage, Comm Channels, Contribute, Releases, Status of project, people, Licensing & openness
+- Data: Privacy, 
+- directory structure
+- social: watch, star, comment,...
+- stable URI
