@@ -1,1 +1,2 @@
-Heidi reads the Open Science Trainer Handbook and finds some typos. She goes to the GitHub repository where the handbook is hosted and creates a pull request with fixes of these typos. A pull request is a suggestion for an update of files. The people who organise the handbook can then decide if they want to accept the typo fixes Heidi suggests.
+
+Susana wants to create a repository to share the mini training she is doing for the open science trainer bootcamp. A repository is a collection of files. The history of the files is allways kept when the files are updated. Susana, Heidi and Stefan can collaborate and create new content using this repository.
