@@ -24,26 +24,29 @@ Heidi does this part
 
 Warn 1 minute before end that time will be over soon!h
 
-#### Group 1: Susana
+
+
+
+#### Group 1: Stefan
+What is an issue?
+
+
+
+
+#### Group 2: Heidi
+What is a pull request?
+
+- Heidi shows her pull request she created for the Open Science Trainer Handbook
+
+
+
+#### Group 3: Susana
 How to start a new repository
 
 - Susana shows how to start a new repository
 - A repository is where you store your files
 - You can change the files and all old versions are available
 - The repository usually contains a README file, which describes the content of the repository
-
-
-
-#### Group 2: Stefan
-What is an issue?
-
-
-
-
-#### Group 3: Heidi
-What is a pull request?
-
-- Heidi shows her pull request she created for the Open Science Trainer Handbook
 
 ### Plenary / Wrapup (6 Minutes)
 
