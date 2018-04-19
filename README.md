@@ -18,7 +18,7 @@ Heidi does this part
 
 - Please go into the three groups according to the color of your sticky notes
 - There will now be 7 Minutes group work 
-- Later we will take what you learned back into plenary and talk about what we learned
+- Later we will take what you learned back into plenary and talk about what we learned. One person of each group needs to present in 30s the outcomes and the facilitators extend it with some recommendations.
 
 ### Group work (7 Minutes)
 
@@ -28,20 +28,20 @@ Warn 1 minute before end that time will be over soon!h
 
 
 #### Group 1: Stefan
-What is an issue?
+How to give feedback to the gitbook? -> Create an issu
 
-
+- Stefan shows some existing 
 
 
 #### Group 2: Heidi
-What is a pull request?
+How to improve the gitbook? -> Create a pull request.
 
 - Heidi shows her pull request she created for the Open Science Trainer Handbook
 
 
 
 #### Group 3: Susana
-How to start a new repository
+How to start an own open project? -> create new repository.
 
 - Susana shows how to start a new repository
 - A repository is where you store your files
@@ -53,7 +53,7 @@ How to start a new repository
 Stefan organizes this part
 
 - Every group tells for 30 seconds what they learned
-- Group lead (Susana, Stefan or Heidi) wraps up the learning output of that group for 30 seconds
+- One of the participants wraps up the learning output of that group for 30 seconds
 - Thanks for participating
 
 
