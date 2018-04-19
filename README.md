@@ -14,9 +14,15 @@ __Preparation:__
 - Put sticky notes with 3 different colors on the chairs (for 3 groups)
 
 
-### Intro (2 Minutes)
+### Intro and moving into groups (2 Minutes)
+
+- Please go into the three groups according to the color of your sticky notes
+- There will now be 7 Minutes group work 
+- Later we will take what you learned back into plenary and talk about what we learned
 
 ### Group work (7 Minutes)
+
+Warn 1 minute before end that time will be over soon!h
 
 #### Group 1: Susana
 How to start a new repository
