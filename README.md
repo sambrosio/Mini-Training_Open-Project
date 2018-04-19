@@ -9,9 +9,7 @@ By Susana, Heidi, and Stefan :smiley:
 
 ## Schedule
 
-__Preparation:__
-
-- Put sticky notes with 3 different colors on the chairs (for 3 groups)
+__Preparation:__ Put sticky notes with 3 different colors on the chairs (for 3 groups)
 
 
 ### Intro and moving into groups (2 Minutes)
