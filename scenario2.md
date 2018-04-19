@@ -4,3 +4,10 @@ Heidi reads the Open Science Trainer Handbook and finds some typos. She goes to 
 Possible things to discuss:
 - Would you be comfortable to create a pull request for the OST handbook as well?
 - Does this process of pull requests make sense to you?
+
+To be aware:
+- Documentation (README.md): mission statement, good name, Description, Useage, Comm Channels, Contribute, Releases, Status of project, people, 
+- Licensing & openness
+- Privacy
+- directory structure
+- social: watch, star, comment,...
