@@ -1,5 +1,5 @@
-# Mini-Training_Open-Project
-Mini-Training for the Open Science Trainer Bootcamp
+# Mini-Training for Open-Projects on GitHub
+Mini-Training for GitHub for the Open Science Trainer Bootcamp
 
 By Susana, Heidi, and Stefan :smiley:
 
@@ -15,6 +15,8 @@ __Preparation:__
 
 
 ### Intro and moving into groups (2 Minutes)
+
+Heidi does this part
 
 - Please go into the three groups according to the color of your sticky notes
 - There will now be 7 Minutes group work 
@@ -46,5 +48,11 @@ What is a pull request?
 - Heidi shows her pull request she created for the Open Science Trainer Handbook
 
 ### Plenary / Wrapup (6 Minutes)
+
+Stefan organizes this part
+
+- Every group tells for 30 seconds what they learned
+- Group lead (Susana, Stefan or Heidi) wraps up the learning output of that group for 30 seconds
+- Thanks for participating
 
 
